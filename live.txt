@@ -533,7 +533,7 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 华数4K影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 求索纪录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
 求索生活,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
-SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001$4K
+SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010001$4K
 SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455$4K
 SiTV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 SiTV动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
@@ -542,22 +542,22 @@ SiTV金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000100
 SiTV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 SiTV游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
 SiTV生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
-iHOT爱院线,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000030630
-iHOT爱谍战,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000070630
-iHOT爱悬疑,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000050630
-iHOT爱喜剧,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000010630
-iHOT爱科幻,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000020630
-iHOT爱科学,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000160630
-iHOT爱浪漫,hhttp://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000040630
+iHOT爱院线,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000030630
+iHOT爱谍战,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000070630
+iHOT爱悬疑,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000050630
+iHOT爱喜剧,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000010630
+iHOT爱科幻,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000020630
+iHOT爱科学,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000160630
+iHOT爱浪漫,hhttp://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000040630
 iHOT爱历史,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
-iHOT爱旅行,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000250630
-iHOT爱奇谈,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000270630
-iHOT爱赛车,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000240630
-iHOT爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
-iHOT爱玩具,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000220630
+iHOT爱旅行,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000250630
+iHOT爱奇谈,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000270630
+iHOT爱赛车,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000240630
+iHOT爱动漫,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000280630
+iHOT爱玩具,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000220630
 iHOT爱幼教,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
-iHOT爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
-精彩影视,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
+iHOT爱体育,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000290630
+精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000006000320630
 精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 
 NewTV东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -912,14 +912,14 @@ ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 东方卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000030202
 东方卫视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032246
 上海新闻综合,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
-上海都市,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000018926
-东方影视,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000032212
-五星体育,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000017540
-第一财经,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000027146
+上海都市,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000018926
+东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
+五星体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
+第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 哈哈炫动,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
 SiTV东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
 SiTV魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
-SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001$4K
+SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010001$4K
 SiTV欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455$4K
 SiTV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 SiTV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000004412
@@ -1001,7 +1001,7 @@ SiTV东方财经,http://[2409:8087:74d3:21::4]/000000001000PLTV/88888888/224/322
 
 
 河南,#genre#
-河南卫视,http://php.jdshipin.com:8880/itv6s.php?cid=ystenlive&id=1000000002000027731
+河南卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000027731
 河南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://www.huakangyaoye.cn:8800/udp/225.1.2.99:10588
@@ -1202,7 +1202,6 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-
 
 斗鱼,#genre#
 神乐剧场,http://jiaojirentv.top/2020/dy.php?id=85894
