@@ -620,9 +620,6 @@ Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 TVBS,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv073
 TVBS新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-台視新聞台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv051
-華視新聞台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv052
-中視新聞台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=4gtv-4gtv074
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
 寰宇新聞台,https://iptv.vip-tptv.xyz/oufei/ofiii_all.php?id=litv-longturn14
