@@ -372,34 +372,6 @@ CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
-北京影视,http://1.203.76.168:7788/udp/225.1.0.84:8000
-北京影视,http://123.113.237.172:8012/udp/239.3.1.158:8000
-北京影视,http://222.130.85.171:4022/udp/239.3.1.158:8000
-北京影视,http://1.203.76.168:7788/udp/225.1.8.82:8000
-北京影视,http://123.113.237.251:11111/udp/239.3.1.158:8000
-北京IPTV4K超清,http://222.130.85.171:4022/udp/239.3.1.249:8001
-北京IPTV4K超清,http://1.203.76.168:7788/udp/225.1.8.211:8002
-北京IPTV4K超清,http://1.203.76.168:7788/udp/225.1.0.205:1025
-北京IPTV4K超清,http://123.113.237.251:11111/udp/239.2.1.249:8002
-北京IPTV淘电影,http://1.203.76.168:7788/udp/225.1.8.38:8002
-北京IPTV淘电影,http://123.113.237.172:8012/udp/239.3.1.250:8001
-北京IPTV淘电影,http://123.113.237.161:8888/udp/239.3.1.250:8001
-北京IPTV淘电影,http://222.130.85.171:4022/udp/239.3.1.250:8001
-北京IPTV淘电影,http://123.113.237.172:8012/udp/239.2.1.250:8002
-北京IPTV淘电影,http://123.113.237.251:11111/udp/239.3.1.250:8001
-北京IPTV淘电影,http://123.113.237.251:11111/udp/239.2.1.250:8002
-湖南电影,http://demo1.ruisilink.top:9000/udp/239.76.253.106:9000
-湖南电影,http://demo1.ruisilink.top:9000/udp/239.76.246.106:1234
-湖南电影,http://demo1.ruisilink.top:9000/udp/239.76.252.119:9000
-湖南电影,http://demo1.ruisilink.top:9000/udp/239.76.245.119:1234
-陕西西部电影,http://tiger81.i234.me:8888/udp/239.111.205.102:5140
-陕西西部电影,http://tiger81.i234.me:8888/udp/239.110.205.128:7764
-陕西西部电影,http://61.185.200.207:55555/udp/239.111.205.102:5140
-陕西西部电影,http://61.185.200.207:55555/udp/239.110.205.128:7764
-安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
-安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy$国内
@@ -478,6 +450,7 @@ TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
+娛樂新聞台,https://lb-mvtv-live.v2h-cdn.com/redirect/enew/enew.stream?type=m3u8
 美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 翡翠綜合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$北美
@@ -577,9 +550,6 @@ France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
